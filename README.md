@@ -375,7 +375,8 @@ This project is developed as part of academic requirements at R V Institute of T
 
 ## Contact
 **Developer:** Shaik Rajak  
-**Email:** shaikrajak.21hu1a4298@rvit.ac.in  
+**Email:** shaikrajak1918@gmail.com 
+**mobile:** 8341363879
 **Institution:** R V Institute of Technology, Guntur, AP
 
 ---
